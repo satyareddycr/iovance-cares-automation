@@ -1,0 +1,32 @@
+Searching for the user name input box =======> Successfully found the username input
+Entering the username in username input =======> Entered the username in username input
+Searching for the Password input box =======> Successfully found the password input
+Entering the passkey in password input =======> Entered the passkey in password input
+Clicking on the sign in button ========> Successfully clicked on the sign in button
+Pop up is not displayed
+Clicking on the REGISTER NEW PATIENT & PLACE ORDER button ========> Successfully clicked on the REGISTER NEW PATIENT & PLACE ORDER button
+Entering the first name in the first name input box ======> Successfully entered first name in the first name input box
+Entering the last name in the last name input box ======> Successfully entered last name in the last name input box
+Entering the date of birth in the date of birth input box ======> Successfully entered date of birth in the date of birth input box
+Clicking on the gender (male) radio button ======> Successfully clicked on the gender (male) radio button
+Entering the zip code in the zip code input box ======> Successfully entered the zip code in the zip code input box
+Selecting the treating physician in the patient fields =======> Successfully selected Walter Physician (Official Test) as treating physician
+Clicking on the Next button =======> Successfully clicked on the Next button
+Verifying the coi number on the Indication page ======> Successfully verified coi number is existed on the Indication page
+Clicking on the Next button =======> Successfully verified Next button is existed
+Selecting the indication in the patient fields =======> Successfully selected melanoma from the indication dropdown
+Clicking on the Next button =======> Successfully clicked on the Next button
+Clicking on the signed patient consent form =======> Successfully clicked on the signed patient consent form =======> Successfully uploaded patient consent form
+Clicking on the Next button =======> Successfully clicked on the Next button
+Selecting the checkbox, I would like to opt out of all Iovance support options ========> Clicking on the Next button =======> Successfully clicked on the Next button
+Selecting the slot from the available slots =======>Successfully selected last slot from the valid dates
+Selecting the tumor procuremnet surgeon in the patient fields =======> Successfully selected Harold Surgeon (Official Test) as tumor procurement surgeon
+Clicking on the Reserve Slot button =======> Successfully clicked on the Reserve Slot button
+Clicking on the Next button =======> Successfully clicked on the Next button
+Clicking on the Agree button =======> Successfully clicked on the Agree button
+Clicking on the Confirm button =======> Successfully clicked on the Confirm button
+Clicking on the Submit TIL Order button =======> Successfully clicked on the Submit TIL Order button
+Verifying the order request has been submitted =======> Successfully verified Order request has been submitted 
+Clicking on the close button  =======> Successfully clicked on the close button
+Clicking on the Request Pick-Up Reschedule button =======> Successfully verified Request Pick-Up Reschedule button is existed
+202312146A
